@@ -7,7 +7,7 @@ Cybersecurity student in Casablanca, learning AI and no-code automation.
 - Security fundamentals
 
 ## Projects
-- Coming soon: AI-assisted customer reply workflow (Make + Gemini)
+- [make-gemini-reply-assistant](https://github.com/SOOvENSO/make-gemini-reply-assistant): AI-assisted customer reply workflow (Make + Gemini)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/khalid-aslaoui-64b99a417)
